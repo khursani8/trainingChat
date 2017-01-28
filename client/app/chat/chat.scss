@@ -1,0 +1,30 @@
+.gambar{
+  width: 80px !important;
+  border-radius: 99px !important;
+  height: 80px;
+  max-width: none !important;
+}
+
+
+.me{
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+}
+
+.card-image{
+  flex:0 0 80px;
+}
+
+#name{
+  text-align: center
+}
+
+#parent{
+  outline: 3px solid purple;
+  display: flex;
+}
+
+#child{
+  outline: 5px solid red;
+  width: auto
+}
