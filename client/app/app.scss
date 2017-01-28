@@ -1,5 +1,5 @@
 $icon-font-path: '/assets/fonts/bootstrap/';
-// @import '~bootstrap-sass/assets/stylesheets/bootstrap';
+@import '~bootstrap-sass/assets/stylesheets/bootstrap';
 $fa-font-path: '/assets/fonts/font-awesome/';
 @import '~font-awesome/scss/font-awesome';
 
@@ -22,5 +22,5 @@ $fa-font-path: '/assets/fonts/font-awesome/';
 @import 'chat/chat';
 @import 'main/main';
 @import '../components/footer/footer';
-// @import '../components/modal/modal';
+@import '../components/modal/modal';
 /* endinject */
